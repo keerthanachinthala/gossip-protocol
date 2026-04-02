@@ -1,7 +1,3 @@
-
-# **📋 README.md File**
-
-
 # **Gossip Protocol Simulation Project**
 
 ## **Team Members**
